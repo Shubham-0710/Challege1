@@ -1,0 +1,57 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+html{
+    background-color:antiquewhite;
+}
+  .main{
+    background-color:whitesmoke;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding:20px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+  }
+  .time{
+    border: 0px;
+    border-radius: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    background-color:rgb(231, 208, 221);
+  }
+
+  p{
+    font-size:16px;
+  }
+  h2{
+    color:brown;
+    font-weight: bold;
+  }
+  img{
+    width:100%;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  .article p{
+    display:inline-block;
+  }
+  .Description{
+    text-align: left;
+    width: 50%;
+    margin-bottom:5px;
+    margin-top: 5px;
+  }
+  .calories{
+    text-align: right;
+    color: brown;
+    font-weight:900;
+    margin-bottom:5px;
+    margin-top: 5px;
+  }
+  hr{
+    height: 0px;
+    border: 1px solid rgb(181, 179, 179);
+  }
